@@ -1,2 +1,2 @@
-# Aarushm
-A test repository
+# Aarush 
+I am new to Github
